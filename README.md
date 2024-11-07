@@ -18,7 +18,7 @@ Repositório responsável por manter uma POC (Proof of Concept) de testes da lib
 - [x] Criar elemento flutuando clicando e arrastando elemento para a posição desejada
 
 ### Pontos importantes ou Observações
-- 
+- Documentação: https://reactflow.dev/
 
 
 ### Tecnologias utilizadas
