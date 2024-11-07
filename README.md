@@ -11,11 +11,11 @@ Repositório responsável por manter uma POC (Proof of Concept) de testes da lib
 ### Objetivos
 - [x] Criar elemento flutuante que permita ser arrastado na tela
 - [x] Conectar elementos flutuantes para formar um fluxo
-- [ ] Adicionar/Testar funcionalidade de drag and drop
-- [ ] Adicionar/Testar funcionalidade de resize
-- [ ] Testar trigger de click e hover encima do elemento flutuante
-- [ ] Centralizar fluxo de elementos flutuantes na tela
-- [ ] Criar elemento flutuando clicando e arrastando elemento para a posição desejada
+- [x] Adicionar/Testar funcionalidade de drag and drop
+- [x] Adicionar/Testar funcionalidade de resize
+- [x] Testar trigger de click e hover encima do elemento flutuante
+- [x] Centralizar fluxo de elementos flutuantes na tela
+- [x] Criar elemento flutuando clicando e arrastando elemento para a posição desejada
 
 ### Pontos importantes ou Observações
 - 

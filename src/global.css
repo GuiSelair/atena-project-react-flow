@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+.container {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+}
+
+.flow-container {
+    flex: 1;
+}
+
+.panel-container {
+    width: 400px;
+    height: 100vh;
+    border: 1px solid #ccc;
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+}
+
+.panel-container hr {
+    margin: 8px 0;
+}
+
+.panel-container strong {
+    font-size: 14px;
+}
+
+.node-type-list {
+    margin: 8px 0;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.node-type-list button {
+    background: #fff;
+    padding: 4px 16px;
+    font-size: 12px;
+    cursor: pointer;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
